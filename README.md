@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zahra lotfi</h1>
 <h3 align="center">I am learning Java programming language 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlotfi&label=Profile%20views&color=0e75b6&style=flat" alt="zlotfi" /> </p>
 
